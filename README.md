@@ -12,7 +12,7 @@ This is a simple implementation of the classic Snake Game using Pygame. The game
 - Install the requirements
 
 ```bash
-  pip install -r requiremts.txt
+  pip install -r requiremets.txt
 ```
 - Run python main.py to start the game.
 - Use the arrow keys to move the snake.
